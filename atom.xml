@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://shiytian.top/"/>
-  <updated>2018-06-09T04:14:45.423Z</updated>
+  <updated>2018-09-24T11:41:50.156Z</updated>
   <id>https://shiytian.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nas</title>
+    <link href="https://shiytian.top/2018/09/24/nas/"/>
+    <id>https://shiytian.top/2018/09/24/nas/</id>
+    <published>2018-09-24T11:40:03.000Z</published>
+    <updated>2018-09-24T11:41:50.156Z</updated>
+    
+    <content type="html"><![CDATA[<p>Nas 简单设置与使用技巧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Nas 简单设置与使用技巧&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://shiytian.top/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>My first blog</title>
